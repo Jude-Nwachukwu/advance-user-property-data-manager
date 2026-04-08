@@ -1,0 +1,6 @@
+---
+homepage: https://dumbdata.co/
+documentation: https://github.com/Jude-Nwachukwu/advance-user-property-data-manager
+versions:
+  - sha: e792cc7cd532cb52fb05a0a9708dc58c9a9aaead
+    changeNotes: Initial release.
